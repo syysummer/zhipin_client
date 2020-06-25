@@ -41,7 +41,7 @@ class Login extends Component {
     }
     return (
       <div>
-          <NavBar type="primary">Y&nbsp;Y&nbsp;直&nbsp;聘login页面登录</NavBar>
+          <NavBar type="primary">Y&nbsp;Y&nbsp;直&nbsp;聘</NavBar>
            <Logo/>
            <WingBlank>
            {msg ? <p className='error-msg'>{msg}</p> : null}
