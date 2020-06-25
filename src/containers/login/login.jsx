@@ -56,7 +56,7 @@ class Login extends Component {
                 </InputItem>
                 <WhiteSpace/>
                 <Button type="primary" onClick = {this.toLogin}>登&nbsp;录</Button>
-                <Button onClick = {this.toRegister}>还没有账户</Button>
+                <Button onClick = {this.toRegister}>还没有账户哦</Button>
                </List>
            </WingBlank>
       </div>
